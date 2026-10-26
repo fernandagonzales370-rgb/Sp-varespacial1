@@ -1,0 +1,30 @@
+# Interfaz (Streamlit)
+streamlit
+streamlit-folium
+folium
+branca
+
+# Datos y análisis
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+openpyxl
+requests
+sodapy
+tqdm
+pillow
+
+# Econometría espacial / geoespacial
+geopandas
+libpysal
+esda
+spreg
+
+# Gráficos
+matplotlib
+
+# Solo para el cuaderno de Colab (no necesarios para desplegar la app)
+# earthengine-api
+# gradio
